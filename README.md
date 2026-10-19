@@ -1,2 +1,1 @@
-# blog_site
-Blog site in django
+# blog_siteBlog site in django
